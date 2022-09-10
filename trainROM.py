@@ -1,6 +1,5 @@
 """
-(4)
-This is the main program that enables AI training and saving of the results.
+Use this program to train the ROM.
 """
 import numpy as np
 import matplotlib.pyplot as plt
