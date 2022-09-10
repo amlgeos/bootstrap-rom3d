@@ -4,7 +4,7 @@ This repository contains python programs developed for training and testing of R
 
 Dependencies: Python 3.6 and later, Tensorflow (tested on 2.0), numpy, matplotlib, os, sklearn, termcolor, pickle, pyvista
 
-Important: Data for all the programs are already included in designated folders. The programs should automatically load them while running.
+Important: Data for all the programs are already included in designated folders. The programs should automatically load them while running. For 3D visualisations VisIt is preferred.
 
 
 All the operations (including creation of results folder, plotting and saving) have been automated. Please run the programs in this sequence.
