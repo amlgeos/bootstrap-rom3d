@@ -1,6 +1,6 @@
 # bootstrap-rom3d
 
-This repository contains python programs developed for training and testing of ROMs and are a part of a preprint submitted to the journal Computers and Geosciences titled "A Bootstrap Strategy to Train, Validate and Test Reduced Order Models of Coupled Geomechanical Processes".
+This repository contains python programs developed for training and testing of ROMs and are a part of a preprint submitted to the journal Computers and Geosciences, titled "A Bootstrap Strategy to Train, Validate and Test Reduced Order Models of Coupled Geomechanical Processes".
 
 Dependencies: Python 3.6 and later, Tensorflow (tested on 2.0), numpy, matplotlib, os, sklearn, termcolor, pickle, pyvista
 
