@@ -4,6 +4,8 @@ This repository contains python programs developed for training and testing of R
 
 Dependencies: Python 3.6 and later, Tensorflow (tested on 2.0), numpy, matplotlib, os, sklearn, termcolor, pickle, pyvista
 
+![image1](https://user-images.githubusercontent.com/113099597/189470334-b1d89245-d0e9-4c47-a750-21ac3da92237.png)
+
 Important: Data for all the programs are already included in designated folders. The programs should automatically load them while running. For 3D visualisations VisIt is preferred.
 
 Prerequisites: 
@@ -23,5 +25,4 @@ All the operations (including creation of results folder, plotting and saving) h
 2) "predictUsingROM.py" : This must be used to load the desired BCs and use the trained ROM from step 1 to generate forecasts.
 3) "plotResults.py" : Shows the progress in training w.r.t. the number of simulations.
 
-
-![image1](https://user-images.githubusercontent.com/113099597/189470334-b1d89245-d0e9-4c47-a750-21ac3da92237.png)
+N.B. Ignore test.txt everywhere.
