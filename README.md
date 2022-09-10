@@ -11,3 +11,6 @@ All the operations (including creation of results folder, plotting and saving) h
 1) "trainROM.py" : This is used to train the Reduced Order Model using the already extracted weights from the full order simulation states.
 2) "predictUsingROM.py" : This must be used to load the desired BCs and use the trained ROM from step 1 to generate forecasts.
 3) "plotResults.py" : Shows the progress in training w.r.t. the number of simulations.
+
+
+![readme](https://user-images.githubusercontent.com/113099597/189469896-0777952f-0d02-4b07-8ce1-cc9a5f333e6c.png)
