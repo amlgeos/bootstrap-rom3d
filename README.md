@@ -13,4 +13,4 @@ All the operations (including creation of results folder, plotting and saving) h
 3) "plotResults.py" : Shows the progress in training w.r.t. the number of simulations.
 
 
-![image1](https://user-images.githubusercontent.com/113099597/189470155-04a85fc7-05e5-4f08-8676-dd72755b5a35.png)
+![image1](https://user-images.githubusercontent.com/113099597/189470334-b1d89245-d0e9-4c47-a750-21ac3da92237.png)
