@@ -1,10 +1,10 @@
 # bootstrap-rom3d
 
-This repository contains python programs developed for training and testing of RNN based reduced order models.
+This repository contains python programs developed for training and testing of ROMs and are a part of a preprint submitted to the journal Computers and Geosciences titled "A Bootstrap Strategy to Train, Validate and Test Reduced Order Models of Coupled Geomechanical Processes".
 
 Dependencies: Python 3.6 and later, Tensorflow (tested on 2.0), numpy, matplotlib, os, sklearn, termcolor, pickle, pyvista
 
-Important: Data for all the programs are already included is designated folders. The programs should automatically load them while running.
+Important: Data for all the programs are already included in designated folders. The programs should automatically load them while running.
 
 
 All the operations (including creation of results folder, plotting and saving) have been automated. Please run the programs in this sequence.
