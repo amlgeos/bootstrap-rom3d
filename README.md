@@ -6,7 +6,7 @@ Dependencies: Python 3.6 and later, Tensorflow (tested on 2.0), numpy, matplotli
 
 Important: Data for all the programs are already included in designated folders. The programs should automatically load them while running. For 3D visualisations VisIt is preferred.
 
-Prerequisite: There are part files in the folders "./analysis/u/" with a prefix "part". Please use the following command in the Linux terminal to join them: cat part* > pca_.npy
+Prerequisite: There are part files in the folder "./analysis/u/" with a prefix "part". Please use the following command in the Linux terminal to join them: cat part* > pca_.npy
 
 All the operations (including creation of results folder, plotting and saving) have been automated. Please run the programs in this sequence.
 1) "trainROM.py" : This is used to train the Reduced Order Model using the already extracted weights from the full order simulation states.
