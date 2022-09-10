@@ -1,8 +1,5 @@
 """
-(5)
-To be used after 'rnn_step14.py'
-Program to use the trained ROM for generating
-artificial simulations.
+Predict using the trained ROM
 """
 
 import numpy as np
