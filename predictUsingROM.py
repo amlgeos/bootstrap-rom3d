@@ -102,7 +102,7 @@ if not os.path.exists(work_folder + '/recon/'):
 
 # Load BCs corresponding to the "Fast" case
 # bc_ = work_folder + "/analysis/Fast.txt"
-# lenOfSim = "Fast"
+lenOfSim = "Fast"
 # bcvals_ = np.loadtxt(fname=bc_, delimiter=" ")
 bcvals_ = np.load(work_folder + "/analysis/fast.npy")
 bcvals_shift = np.vstack([bcvals_[:, 3], bcvals_[:, 1], bcvals_[:, 2], bcvals_[:, 0]]).T
